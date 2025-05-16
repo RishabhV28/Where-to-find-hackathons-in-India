@@ -13,5 +13,5 @@
 - ![Sprint.dev](https://www.sprint.dev/) - While not a massive reach as of yet, still a respectable platform for hackathons
 - ![HeapHeapHurray](https://www.heapheaphurray.com/p/currently-running-hackathons) - While primarily a newsletter, runs a regularly updated list of "currently running hackathons"
 - ![MLH](https://mlh.io/) - MLH is one of the most well known organisation that hosts regular hackathons
-- ![ChatGPT](https://chatgpt.com/) - There are multiple MASSIVE hackathons that cannot be find on any of the above platforms , in that case simple run the prompt "Give me a list of hackathons happening in <YearName> around <AreaName> that are currently open for submissions" and it should give a few good results
+- ![ChatGPT](https://chatgpt.com/) - There are multiple MASSIVE hackathons that cannot be find on any of the above platforms , in that case simple run the prompt "Give me a list of hackathons happening in YearName around AreaName that are currently open for submissions" and it should give a few good results
 - Google - Do some of your own research 😉
